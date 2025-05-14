@@ -46,7 +46,7 @@ A customizable password generator that helps users create strong passwords based
 ### 💻 Usage
 
 ```bash
-python password_generator.py
+python randpassgen.py
 ```
 
 ---
@@ -79,7 +79,7 @@ A simple command-line task manager that allows users to track their daily tasks,
 ### 💻 Usage
 
 ```bash
-python todo_list.py
+python todo.py
 ```
 
 ---
@@ -106,7 +106,7 @@ An interactive quiz game that tests the user's knowledge of Python basics with r
 ### 💻 Usage
 
 ```bash
-python python_trivia_game.py
+python trivia.py
 ```
 
 ---
@@ -116,13 +116,13 @@ python python_trivia_game.py
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/python-mini-projects.git
+git clone https://github.com/your-username/python-projects
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd python-mini-projects
+cd python-projects
 ```
 
 ---
@@ -132,9 +132,9 @@ cd python-mini-projects
 You can run any script directly using Python 3:
 
 ```bash
-python password_generator.py
-python todo_list.py
-python python_trivia_game.py
+python randpassgen.py
+python todo.py
+python trivia.py
 ```
 
 ---
@@ -175,8 +175,8 @@ These mini-projects help you build understanding of:
 
 ## 📬 Contact
 
-**Created by [Your Name or GitHub Handle]**
+**Created by [vinaymabbu]**
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/vinaymabbu](https://github.com/vinaymabbu)
 
 > Feel free to ⭐ the repo if you find it useful!
