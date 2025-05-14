@@ -22,4 +22,4 @@ This tool generates secure passwords based on user preferences.
 
 **How to Use:**
 ```bash
-python password_generator.py
+python randpassgen.py
